@@ -5,6 +5,9 @@ body {
           margin-bottom: 100px;
     }
 
+#images {
+  margin: 20px;
+}
     .centerTXT { 
     text-align: center; 
     color: white; 
@@ -39,7 +42,7 @@ body {
     opacity: 0.8;
     text-align: center;
     padding: 0;
-    margin: 10px;
+    margin-top: 10px;
     }
 
     .nav a {
