@@ -1,3 +1,7 @@
+The lame version of a football team gear order page.
+The final project for coding classes had to be built with React, 
+so it's my beloved vanilla JS converted to React components.
+
 ## Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
